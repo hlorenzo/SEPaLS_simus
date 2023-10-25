@@ -4,4 +4,9 @@ R code to replicate figures of article SEPaLS: Shrinkage for Extreme Partial Lea
 
 Joint work by Stéphane Girard, Hadrien Lorenzo and Julyan Arbel.
 
-R package SEPaLS available at https://github.com/hlorenzo/SEPaLS.
+R package now on the CRAN, please use the following to install the CRAN version:
+```{r}
+install.packages("SEPaLS")
+```
+
+R development package SEPaLS available at https://github.com/hlorenzo/SEPaLS. 
